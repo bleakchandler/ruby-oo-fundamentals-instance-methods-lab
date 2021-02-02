@@ -6,10 +6,7 @@ class Dog
     def sit
         puts "The Dog is sitting"
     end
-
-
 end
-
 
 class Person
     def talk
@@ -19,5 +16,4 @@ class Person
     def walk
        puts "The Person is walking"
     end
-
 end
